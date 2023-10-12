@@ -1,0 +1,16 @@
+.container {
+    width: 90vw;
+    margin: 5rem auto;
+    background: var(--white);
+    border-radius: var(--borderRadius);
+    padding: 2.5rem;
+    max-width: 800px;
+    box-shadow: var(--shadow-3);
+}
+
+.container h1 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 3rem;
+    color: var(--grey-700);
+}
