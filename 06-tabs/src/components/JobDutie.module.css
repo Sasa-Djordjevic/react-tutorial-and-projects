@@ -1,0 +1,16 @@
+.job-desc {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    column-gap: 2rem;
+    align-items: center;
+    margin-bottom: 1.25rem;
+}
+  
+.job-icon {
+    color: var(--primary-500);
+}
+  
+.job-desc p {
+    color: var(--grey-700);
+    line-height: 1.5;
+}

@@ -1,0 +1,15 @@
+.btn-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 4rem;
+}
+
+@media screen and (min-width: 992px) {
+    .btn-container {
+      flex-direction: column;
+      justify-content: flex-start;
+    }
+}
