@@ -7,3 +7,4 @@ React projects - React 18 Tutorial and Projects Course ( John Smilga )
 04 project - Accordion App
 05 project - Menu App
 06 project - Tabs App
+07 project - Slider App
