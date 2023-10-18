@@ -8,3 +8,4 @@ React projects - React 18 Tutorial and Projects Course ( John Smilga )
 05 project - Menu App
 06 project - Tabs App
 07 project - Slider App
+08 project - Lorem Ipsum App
