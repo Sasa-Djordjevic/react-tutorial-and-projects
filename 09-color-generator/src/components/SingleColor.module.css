@@ -1,0 +1,19 @@
+.color {
+    padding: 1rem 2rem;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.color p {
+    line-height: 1.5;
+    margin-bottom: 0.25rem;
+}
+  
+.color-light .color-value {
+    color: var(--white);
+}
+
+.color-light .percent-value {
+    color: var(--white);
+}
+  
