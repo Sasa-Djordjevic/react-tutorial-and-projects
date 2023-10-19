@@ -9,3 +9,4 @@ React projects - React 18 Tutorial and Projects Course ( John Smilga )
 06 project - Tabs App
 07 project - Slider App
 08 project - Lorem Ipsum App
+09 project - Color Generator App
