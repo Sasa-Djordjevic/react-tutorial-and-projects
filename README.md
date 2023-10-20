@@ -10,3 +10,4 @@ React projects - React 18 Tutorial and Projects Course ( John Smilga )
 07 project - Slider App
 08 project - Lorem Ipsum App
 09 project - Color Generator App
+10 project - Grocery Bud App
